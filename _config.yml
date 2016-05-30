@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ayu Dwi Septiana 
+title:            Sitora910
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://ayudwi1995.github.io
+url:              http://tora910.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Ayu Dwi Septiana Arta
+  name: Andre Oktora
   avatar: bio-photo.jpg
-  bio: "Love your self"
-  email: ayuarta1995@gmail.com
+  bio: "Describe your self."
+  email: 
   disqus-shortname: 
-  twitter: ayudwi95 #username
-  facebook: facebook.com/astridadeliana #username
-  google: ayudwi95
-    plus: Oh Sehun #username
+  twitter: _andreoktora #username
+  facebook:  andrea.okto.libra #username
+  google:
+    plus: #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: ayudwi1995 #username
+  github: tora910 #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
